@@ -1,0 +1,40 @@
+{
+  "services": [
+    {
+      "id": "transportation",
+      "title": "Professional Transportation",
+      "description": "Dedicated fleet with GPS tracking for safe, insured transit of your premium modular units from Jaaji factory to your doorstep.",
+      "icon": "Truck"
+    },
+    {
+      "id": "eco-recycling",
+      "title": "Eco-Recycling",
+      "description": "Responsible disposal and recycling of old furniture and packaging materials. Green-certified process for minimal environmental impact.",
+      "icon": "Recycle"
+    },
+    {
+      "id": "refurbished",
+      "title": "Refurbished Furniture",
+      "description": "Budget-friendly premium refurbished furniture options, restored to factory standards with warranty coverage.",
+      "icon": "RefreshCw"
+    },
+    {
+      "id": "waste-disposal",
+      "title": "Waste Disposal",
+      "description": "Complete post-installation cleanup including industrial-grade waste segregation and responsible disposal of all construction debris.",
+      "icon": "Trash2"
+    },
+    {
+      "id": "dust-collection",
+      "title": "Industrial Dust Collection",
+      "description": "State-of-the-art HEPA dust collection systems during installation ensuring zero dust contamination in your living spaces.",
+      "icon": "Wind"
+    },
+    {
+      "id": "fast-track",
+      "title": "24/7 Fast-Track Delivery",
+      "description": "Round-the-clock project execution for urgent requirements. Dedicated project manager with real-time updates.",
+      "icon": "Zap"
+    }
+  ]
+}

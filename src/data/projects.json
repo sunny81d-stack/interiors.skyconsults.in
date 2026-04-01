@@ -1,0 +1,76 @@
+{
+    "projects": [
+        {
+            "id": "modern-villa-mumbai",
+            "title": "Modern Villa in Mumbai",
+            "description": "A luxurious 4BHK villa featuring contemporary design with seamless indoor-outdoor living spaces.",
+            "category": "Residential",
+            "location": "Mumbai, Maharashtra",
+            "year": 2024,
+            "projectType": "Villa",
+            "area": "4,500 sq ft",
+            "duration": "14 months",
+            "budget": "₹2.5 Cr",
+            "media": {
+                "thumbnail": "/images/showcase/villa-thumb.jpg",
+                "gallery": [
+                    "/images/showcase/villa-1.jpg",
+                    "/images/showcase/villa-2.jpg",
+                    "/images/showcase/villa-3.jpg"
+                ],
+                "video": {
+                    "youtube": "",
+                    "vimeo": ""
+                },
+                "model3d": ""
+            },
+            "testimonial": {
+                "quote": "Sky Consults transformed our vision into a stunning reality.",
+                "clientName": "Rajesh Sharma",
+                "rating": 5
+            },
+            "highlights": [
+                "Smart Home Integration",
+                "Sustainable Materials",
+                "Infinity Pool",
+                "Landscaped Garden"
+            ],
+            "featured": true
+        },
+        {
+            "id": "office-bangalore",
+            "title": "Corporate Office in Bangalore",
+            "description": "A modern 10,000 sq ft office space designed for productivity and collaboration.",
+            "category": "Commercial",
+            "location": "Bangalore, Karnataka",
+            "year": 2023,
+            "projectType": "Office",
+            "area": "10,000 sq ft",
+            "duration": "8 months",
+            "budget": "₹1.8 Cr",
+            "media": {
+                "thumbnail": "/images/showcase/office-thumb.jpg",
+                "gallery": [
+                    "/images/showcase/office-1.jpg",
+                    "/images/showcase/office-2.jpg"
+                ],
+                "video": {
+                    "youtube": "",
+                    "vimeo": ""
+                },
+                "model3d": ""
+            },
+            "testimonial": {
+                "quote": "Our employees love the new space.",
+                "clientName": "Priya Menon",
+                "rating": 5
+            },
+            "highlights": [
+                "Biophilic Design",
+                "Ergonomic Workstations",
+                "Green Certification"
+            ],
+            "featured": false
+        }
+    ]
+}

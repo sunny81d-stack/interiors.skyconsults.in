@@ -1,0 +1,162 @@
+{
+  "projects": [
+    {
+      "id": "bagalur-villa-2024",
+      "title": "Bagalur Contemporary Villa",
+      "description": "A stunning 3BHK transformation featuring German-machine precision modular work with HDHMR cabinetry, acrylic finish kitchen, and full Vastu compliance.",
+      "category": "Villa",
+      "location": "Bagalur, North Bengaluru",
+      "year": 2024,
+      "projectType": "Full Home Interior",
+      "area": "1850 sq ft",
+      "duration": "45 days",
+      "budget": "Premium",
+      "media": {
+        "thumbnail": "/images/projects/bagalur-villa/thumb.webp",
+        "gallery": [
+          "/images/projects/bagalur-villa/living-room.webp",
+          "/images/projects/bagalur-villa/kitchen.webp",
+          "/images/projects/bagalur-villa/master-bed.webp",
+          "/images/projects/bagalur-villa/pooja-room.webp",
+          "/images/projects/bagalur-villa/dining.webp"
+        ],
+        "video": {
+          "youtube": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "vimeo": ""
+        },
+        "model3d": "/models/bagalur-villa.glb"
+      },
+      "testimonial": {
+        "quote": "Sky Consults and Jaaji Modular transformed our house into a dream home. The 250-point quality handover gave us complete confidence.",
+        "clientName": "Rajesh & Priya Sharma",
+        "rating": 5
+      },
+      "highlights": [
+        "Full Vastu Compliance",
+        "German-Machine Production",
+        "HDHMR & BWP Grade Materials",
+        "Dust-Free Installation",
+        "250-Point Quality Handover"
+      ],
+      "featured": true
+    },
+    {
+      "id": "yelahanka-apartment-2024",
+      "title": "Yelahanka Modern Apartment",
+      "description": "A compact 2BHK apartment maximized with Murphy beds, floor-to-ceiling modular storage, and smart LED lighting with visual expansion techniques.",
+      "category": "Apartment",
+      "location": "Yelahanka, North Bengaluru",
+      "year": 2024,
+      "projectType": "Compact Living Design",
+      "area": "1100 sq ft",
+      "duration": "30 days",
+      "budget": "Essential",
+      "media": {
+        "thumbnail": "/images/projects/yelahanka-apt/thumb.webp",
+        "gallery": [
+          "/images/projects/yelahanka-apt/living.webp",
+          "/images/projects/yelahanka-apt/bedroom.webp",
+          "/images/projects/yelahanka-apt/kitchen.webp",
+          "/images/projects/yelahanka-apt/storage.webp"
+        ],
+        "video": { "youtube": "", "vimeo": "" },
+        "model3d": ""
+      },
+      "testimonial": {
+        "quote": "Our 1100 sq ft feels like 1500 sq ft now. The Murphy bed and vertical storage solutions are game-changers.",
+        "clientName": "Ananya Krishnamurthy",
+        "rating": 5
+      },
+      "highlights": [
+        "Murphy Bed Integration",
+        "Floor-to-Ceiling Storage",
+        "Smart LED Lighting",
+        "Mirror-Based Visual Expansion",
+        "Space Optimization"
+      ],
+      "featured": true
+    },
+    {
+      "id": "devanahalli-penthouse-2025",
+      "title": "Devanahalli Luxury Penthouse",
+      "description": "An opulent 4BHK penthouse with Italian marble integration, premium acrylic modular kitchen, custom walk-in wardrobe, and Vastu-compliant pooja room.",
+      "category": "Penthouse",
+      "location": "Devanahalli, North Bengaluru",
+      "year": 2025,
+      "projectType": "Luxury Interior",
+      "area": "3200 sq ft",
+      "duration": "60 days",
+      "budget": "Luxury",
+      "media": {
+        "thumbnail": "/images/projects/devanahalli-ph/thumb.webp",
+        "gallery": [
+          "/images/projects/devanahalli-ph/foyer.webp",
+          "/images/projects/devanahalli-ph/living.webp",
+          "/images/projects/devanahalli-ph/kitchen.webp",
+          "/images/projects/devanahalli-ph/master.webp",
+          "/images/projects/devanahalli-ph/pooja.webp",
+          "/images/projects/devanahalli-ph/terrace.webp"
+        ],
+        "video": {
+          "youtube": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "vimeo": ""
+        },
+        "model3d": "/models/devanahalli-penthouse.glb"
+      },
+      "testimonial": {
+        "quote": "From the 3D visualization to the final handover, every step was transparent and premium.",
+        "clientName": "Dr. Venkatesh & Lakshmi Iyer",
+        "rating": 5
+      },
+      "highlights": [
+        "Italian Marble Integration",
+        "Premium Acrylic Finishes",
+        "Custom Walk-in Wardrobe",
+        "Vastu Pooja Room",
+        "Smart Home Integration"
+      ],
+      "featured": true
+    },
+    {
+      "id": "thanisandra-studio-2025",
+      "title": "Thanisandra Studio Apartment",
+      "description": "A clever 1BHK studio transformation with multi-functional furniture, compact modular kitchen, and integrated work-from-home station.",
+      "category": "Studio",
+      "location": "Thanisandra, North Bengaluru",
+      "year": 2025,
+      "projectType": "Studio Optimization",
+      "area": "650 sq ft",
+      "duration": "20 days",
+      "budget": "Essential",
+      "media": {
+        "thumbnail": "/images/projects/thanisandra-studio/thumb.webp",
+        "gallery": [
+          "/images/projects/thanisandra-studio/overview.webp",
+          "/images/projects/thanisandra-studio/kitchen.webp",
+          "/images/projects/thanisandra-studio/workspace.webp"
+        ],
+        "video": { "youtube": "", "vimeo": "" },
+        "model3d": ""
+      },
+      "testimonial": {
+        "quote": "Perfect for my budget and lifestyle. The work-from-home setup is brilliant.",
+        "clientName": "Karthik Nair",
+        "rating": 4
+      },
+      "highlights": [
+        "Multi-functional Furniture",
+        "Integrated WFH Station",
+        "Ambient LED Lighting",
+        "BWP Grade Kitchen",
+        "Budget Optimized"
+      ],
+      "featured": false
+    }
+  ],
+  "_instructions": {
+    "howToAdd": "Copy any project object, change 'id' to unique, update all fields, add to array.",
+    "mediaNote": "Place images in public/images/projects/[folder]/ as .webp. Models in public/models/ as .glb.",
+    "categories": ["Villa", "Apartment", "Penthouse", "Studio", "Duplex", "Office"],
+    "budgetTiers": ["Essential", "Premium", "Luxury"]
+  }
+}

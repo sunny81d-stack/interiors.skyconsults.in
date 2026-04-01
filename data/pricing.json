@@ -1,0 +1,80 @@
+{
+  "lastUpdated": "2025-01-01",
+  "source": "Jaaji Factory Price 2026 PDF",
+  "gstRate": 0.18,
+  "currency": "INR",
+  "tiers": {
+    "essential": {
+      "label": "Essential",
+      "description": "Quality modular interiors with MR & BWP grade materials, laminate finishes",
+      "color": "#7A8598",
+      "pricePerSqFt": {
+        "bedroom": {
+          "dryArea": { "rate": 850, "grade": "MR Grade", "finish": "Laminate" },
+          "wetArea": { "rate": 0, "grade": "N/A", "finish": "N/A" }
+        },
+        "hall": {
+          "dryArea": { "rate": 750, "grade": "MR Grade", "finish": "Laminate" },
+          "wetArea": { "rate": 0, "grade": "N/A", "finish": "N/A" }
+        },
+        "dining": {
+          "dryArea": { "rate": 700, "grade": "MR Grade", "finish": "Laminate" },
+          "wetArea": { "rate": 0, "grade": "N/A", "finish": "N/A" }
+        },
+        "kitchen": {
+          "dryArea": { "rate": 900, "grade": "MR Grade", "finish": "Laminate" },
+          "wetArea": { "rate": 1100, "grade": "BWP Grade", "finish": "Marine Ply + Laminate" }
+        }
+      },
+      "defaultSqFt": { "bedroom": 120, "hall": 200, "dining": 100, "kitchen": 80 }
+    },
+    "premium": {
+      "label": "Premium",
+      "description": "HDHMR core with acrylic/PU finishes, soft-close hardware, premium accessories",
+      "color": "#4A90C4",
+      "pricePerSqFt": {
+        "bedroom": {
+          "dryArea": { "rate": 1350, "grade": "HDHMR", "finish": "Acrylic/PU" },
+          "wetArea": { "rate": 0, "grade": "N/A", "finish": "N/A" }
+        },
+        "hall": {
+          "dryArea": { "rate": 1200, "grade": "HDHMR", "finish": "Acrylic/PU" },
+          "wetArea": { "rate": 0, "grade": "N/A", "finish": "N/A" }
+        },
+        "dining": {
+          "dryArea": { "rate": 1100, "grade": "HDHMR", "finish": "Acrylic/PU" },
+          "wetArea": { "rate": 0, "grade": "N/A", "finish": "N/A" }
+        },
+        "kitchen": {
+          "dryArea": { "rate": 1400, "grade": "HDHMR", "finish": "Acrylic" },
+          "wetArea": { "rate": 1650, "grade": "BWP Grade", "finish": "Marine Ply + Acrylic" }
+        }
+      },
+      "defaultSqFt": { "bedroom": 120, "hall": 200, "dining": 100, "kitchen": 80 }
+    },
+    "luxury": {
+      "label": "Luxury",
+      "description": "Italian finishes, premium hardware, smart integration, designer custom work",
+      "color": "#C0C8D8",
+      "pricePerSqFt": {
+        "bedroom": {
+          "dryArea": { "rate": 2100, "grade": "HDHMR + Veneer", "finish": "Italian Lacquer" },
+          "wetArea": { "rate": 0, "grade": "N/A", "finish": "N/A" }
+        },
+        "hall": {
+          "dryArea": { "rate": 1900, "grade": "HDHMR + Veneer", "finish": "Italian Lacquer" },
+          "wetArea": { "rate": 0, "grade": "N/A", "finish": "N/A" }
+        },
+        "dining": {
+          "dryArea": { "rate": 1750, "grade": "HDHMR + Veneer", "finish": "Italian Lacquer" },
+          "wetArea": { "rate": 0, "grade": "N/A", "finish": "N/A" }
+        },
+        "kitchen": {
+          "dryArea": { "rate": 2200, "grade": "HDHMR + Veneer", "finish": "Italian Glass" },
+          "wetArea": { "rate": 2600, "grade": "BWP + Marine", "finish": "Italian Glass + Marine" }
+        }
+      },
+      "defaultSqFt": { "bedroom": 120, "hall": 200, "dining": 100, "kitchen": 80 }
+    }
+  }
+}

@@ -1,0 +1,137 @@
+{
+    "gstRate": 0.18,
+    "tiers": {
+        "essential": {
+            "label": "Essential",
+            "defaultSqFt": {
+                "bedroom": 120,
+                "hall": 200,
+                "dining": 100,
+                "kitchen": 80
+            },
+            "pricePerSqFt": {
+                "bedroom": {
+                    "dryArea": {
+                        "rate": 1500,
+                        "grade": "MR Grade",
+                        "finish": "Laminate"
+                    }
+                },
+                "hall": {
+                    "dryArea": {
+                        "rate": 1500,
+                        "grade": "MR Grade",
+                        "finish": "Laminate"
+                    }
+                },
+                "dining": {
+                    "dryArea": {
+                        "rate": 1400,
+                        "grade": "MR Grade",
+                        "finish": "Laminate"
+                    }
+                },
+                "kitchen": {
+                    "dryArea": {
+                        "rate": 1500,
+                        "grade": "MR Grade",
+                        "finish": "Laminate"
+                    },
+                    "wetArea": {
+                        "rate": 1800,
+                        "grade": "BWR Grade",
+                        "finish": "Laminate"
+                    }
+                }
+            }
+        },
+        "premium": {
+            "label": "Premium",
+            "defaultSqFt": {
+                "bedroom": 120,
+                "hall": 200,
+                "dining": 100,
+                "kitchen": 80
+            },
+            "pricePerSqFt": {
+                "bedroom": {
+                    "dryArea": {
+                        "rate": 2200,
+                        "grade": "HDHMR",
+                        "finish": "Acrylic/PU"
+                    }
+                },
+                "hall": {
+                    "dryArea": {
+                        "rate": 2200,
+                        "grade": "HDHMR",
+                        "finish": "Acrylic/PU"
+                    }
+                },
+                "dining": {
+                    "dryArea": {
+                        "rate": 2100,
+                        "grade": "HDHMR",
+                        "finish": "Acrylic/PU"
+                    }
+                },
+                "kitchen": {
+                    "dryArea": {
+                        "rate": 2200,
+                        "grade": "HDHMR",
+                        "finish": "Acrylic/PU"
+                    },
+                    "wetArea": {
+                        "rate": 2600,
+                        "grade": "HDHMR Marine",
+                        "finish": "PU Coated"
+                    }
+                }
+            }
+        },
+        "luxury": {
+            "label": "Luxury",
+            "defaultSqFt": {
+                "bedroom": 120,
+                "hall": 200,
+                "dining": 100,
+                "kitchen": 80
+            },
+            "pricePerSqFt": {
+                "bedroom": {
+                    "dryArea": {
+                        "rate": 3500,
+                        "grade": "Veneer",
+                        "finish": "Italian Lacquer"
+                    }
+                },
+                "hall": {
+                    "dryArea": {
+                        "rate": 3500,
+                        "grade": "Veneer",
+                        "finish": "Italian Lacquer"
+                    }
+                },
+                "dining": {
+                    "dryArea": {
+                        "rate": 3300,
+                        "grade": "Veneer",
+                        "finish": "Italian Lacquer"
+                    }
+                },
+                "kitchen": {
+                    "dryArea": {
+                        "rate": 3500,
+                        "grade": "Veneer",
+                        "finish": "Italian Lacquer"
+                    },
+                    "wetArea": {
+                        "rate": 4000,
+                        "grade": "Marine Ply",
+                        "finish": "Italian Lacquer"
+                    }
+                }
+            }
+        }
+    }
+}
